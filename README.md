@@ -1,2 +1,2 @@
-# oden-css-landing-page
+# odin-css-landing-page
 CSS Project - Creating a responsive landing page
